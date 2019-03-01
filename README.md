@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mburger82/EduBoard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![IMAGE](https://github.com/mburger82/EduBoard/blob/master/LogoTS.png)
+![IMAGE](https://github.com/mburger82/EduBoard/blob/master/EduBoard10_Top.png)
+# Project Page of EduBoard
+## A Microcontroller-Board based on ATXmega128A3U for Juventus Technikerschule in Zürich
+---
+## Main Features:
+- ATXmega128A3U
+- onboard JTAG-Debugger
+- 4 Buttons
+- 8 LED's
+- 2 Poti's
+- 2 PWM-Outputs
+- onboard 9 Axis IMU
+- 4x20 Character-Display
+- USB-Seraial Connection
+- Breakout-Board Section
+- X-Bee Connector for Wireless communication
+- FreeRTOS Ready [https://github.com/mburger82/FreeRTOS10_Template_Demo]
 
-### Markdown
+## Microcontroller Features:
+- 128k Flash
+- 8k Ram
+- 2k Eeprom
+- 32MHz RISC CPU 8/16Bit
+- Hardware Multiplier
+- 2 ADC-Modules
+- 2 DAC-Modules
+- 7 16Bit Timer
+- 7 USART-Interfaces
+- 2 I2C-Interfaces
+- 3 SPI-Interfaces
+- AES & DES Crypto Engine
+- CRC
+- JTAG-Debugging
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Board Data:
+ [Schematic](https://github.com/mburger82/EduBoard/blob/master/EduBoard_V10_Schema.pdf)
+ 
+ [Layout](https://github.com/mburger82/EduBoard/blob/master/EduBoard_V10_PCB.pdf)
+ 
+ [Target File](https://github.com/mburger82/EduBoard/blob/master/EduBoard_V10.T3001)
 
-```markdown
-Syntax highlighted code block
+## Datasheets:
+[ATXmega128A3U Datasheet](https://github.com/mburger82/EduBoard/blob/master/ATXMega128a3u_Datasheet.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+[XMega Manual](https://github.com/mburger82/EduBoard/blob/master/XMEGA-AU_Manual.pdf)
 
-- Bulleted
-- List
+[IMU Datasheet](https://github.com/mburger82/EduBoard/blob/master/LSM9DS1_IMU.pdf)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mburger82/EduBoard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Display Datasheet](https://github.com/mburger82/EduBoard/blob/master/Display_NHD-0420H1Z-FL-GBW-33V3.pdf)
