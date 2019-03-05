@@ -1,7 +1,7 @@
 
 
-![IMAGE](https://github.com/mburger82/EduBoard/blob/master/LogoTS.png)
-![IMAGE](https://github.com/mburger82/EduBoard/blob/master/EduBoard10_Top.png)
+![IMAGE](./LogoTS.png)
+![IMAGE](./EduBoard10_Top.png)
 # Project Page of EduBoard
 ## A Microcontroller-Board based on ATXmega128A3U for Juventus Technikerschule in Zürich
 ---
